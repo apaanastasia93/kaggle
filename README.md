@@ -17,7 +17,7 @@ Next Machine Learning algorithms for the classification had been used:
 * KNN;
 * Random Forest Classifier. 
 
-2. ** Shill Bidding.** Online retailer, eBay is providing an option of bidding to their customers globally. Bidding is employed to find the real price of items in the market based on the demand. The price offered by anyone participating in this process is termed as a 'bid'. Normal bids are classified as ‘0’ bids in the data set and anomalous bids as ‘1’. The goal is to use classification or clustering algorithms to predict the bids in the future.
+2. **Shill Bidding.** Online retailer, eBay is providing an option of bidding to their customers globally. Bidding is employed to find the real price of items in the market based on the demand. The price offered by anyone participating in this process is termed as a 'bid'. Normal bids are classified as ‘0’ bids in the data set and anomalous bids as ‘1’. The goal is to use classification or clustering algorithms to predict the bids in the future.
 The problem I was dealing with was a classification problem. In the project the next steps had been performed: 
 * Data preparation;
 * Dimensionality reduction (PCA and LDA).  
